@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\bin\Debug\EvenOddProgram.exe.config
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\bin\Debug\EvenOddProgram.exe
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\bin\Debug\EvenOddProgram.pdb
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\obj\Debug\EvenOddProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\obj\Debug\EvenOddProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\obj\Debug\EvenOddProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\obj\Debug\EvenOddProgram.exe
+C:\Users\HP\source\repos\Yogini1\EvenOddProgram\EvenOddProgram\obj\Debug\EvenOddProgram.pdb
